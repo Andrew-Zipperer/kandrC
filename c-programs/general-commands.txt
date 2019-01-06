@@ -1,0 +1,10 @@
+__compile__
+cc <source-filename-with-.c-suffix> [-o <executable-output-filename>]
+default <executable-output-filename> is a.out.
+execute with ./a.out
+
+__send EOF from terminal__
+when in Ubuntu terminal, Ctrl+D.
+Note: Ctrl+D from emacs terminal stops terminal.
+Note: Ctrl+Z in Ubuntu terminal backgrounds process -- even if terminal is under Windows.
+

@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+/* Fahrenheit Celsius table. use for loop */
+
+main(){
+
+}

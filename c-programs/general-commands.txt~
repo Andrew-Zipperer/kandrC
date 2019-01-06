@@ -1,0 +1,4 @@
+__compile__
+cc <source-filename-with-.c-suffix> [-o <executable-output-filename>]
+default <executable-output-filename> is a.out.
+execute with ./a.out
