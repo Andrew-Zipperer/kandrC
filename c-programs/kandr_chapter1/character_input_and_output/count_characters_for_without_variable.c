@@ -9,3 +9,5 @@ main()
     ;
   printf("%ld\n", nc);
 }
+
+/* not meaningful comment */
